@@ -15,6 +15,7 @@ freezegun = "*"
 pytest-json = "*"
 
 [packages]
+certifi = "==2023.07.22"
 
 [requires]
 python_version = "3.7"
